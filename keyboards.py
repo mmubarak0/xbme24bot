@@ -145,7 +145,7 @@ keyboard = {
     "ref": [
             [
                 InlineKeyboardButton(
-                    "Complex Numbers", callback_data='compref'),
+                    "Electrical Circuit theory", callback_data='elecref'),
             ],
             [
                 InlineKeyboardButton(
