@@ -458,6 +458,12 @@ def button(update: Update, context: CallbackContext) -> None:
         course = "integral"
         cout(update, context, course, sub, course)
 
+    if query.data == 'integral2':
+        # echo(update, context)
+        sub = "master_sheet"
+        course = "integral"
+        cout(update, context, course, sub, course)
+
 
 
     """ Complex number stuff """

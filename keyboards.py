@@ -120,6 +120,9 @@ keyboard = {
             [
                 InlineKeyboardButton("Lectures", callback_data='integral1'),
             ],
+            [
+                InlineKeyboardButton("Main sheet", callback_data='integral2'),
+            ],
             [InlineKeyboardButton("Back to menu", callback_data='back')],
         ],
 
