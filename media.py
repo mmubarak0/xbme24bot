@@ -18,7 +18,11 @@ course = {
                     ],
                     "doc":[
                         'BQACAgQAAxkBAAIBoGFY2F96ou-eBL2v22RExkn0VTlTAAK_CgACnIPQUSVMXXAZfbQOIQQ',
-                        'BQACAgQAAxkBAAID1WFdcnnHYikD-KQaL2zJuqUFm2rHAAJ0CwACyFbpUudUcilwiXvlIQQ'
+                        "BQACAgQAAxkBAAIdDGHlvNBGxricFbxn0Q7bj-0zgGGpAAKyCgAC25BBUlBx8_qraWZ7IwQ",
+                        "BQACAgQAAxkBAAIdDWHlvNDkdPXwIfF8NXAuOwsn-GCCAAKzCgAC25BBUtuWDbnJj-z9IwQ",
+                        "BQACAgQAAxkBAAIdDmHlvNCDYdtHovxwByWajiJIBt3fAAKbCgACjExYUolZkXyjzNDkIwQ",
+                        "BQACAgQAAxkBAAIdD2HlvNBYJEBYWNzkXrJ_fu3-7v-VAAK0CgAC25BBUrs1z4ATvaTvIwQ",
+                        "BQACAgQAAxkBAAIdEGHlvNDDqWZX_66oEF8j7Y_I3zKYAAIDCwACHM2wUpAlLbkDOMZoIwQ"
                     ],
                     "photo":[
                     ],
@@ -44,7 +48,40 @@ course = {
                     "message":[
                         'https://youtube.com/playlist?list=PLEYqyyrm-hQ3wtF34smyJSAOqUJqnf1ch',
                         'https://youtu.be/JL7p_bI5u7E',
-                        'https://youtu.be/8XClJiqeIJY'
+                        'https://youtu.be/8XClJiqeIJY',
+                        "*فيديوهات ميكانيكا المواد*
+
+                        *الباب الأول :*
+                        مقدمة  https://youtu.be/B0Z799AIgP0
+                        الجزء الأول  https://youtu.be/cf0QFwZsgTo
+                        الجزء الثاني
+                        https://youtu.be/y8yDkHYS-9E
+
+                        *الباب الثاني :*
+                        مقدمة  https://youtu.be/gP3Jm8BaL4U
+                        الجزء الأول  https://youtu.be/hcrr2dmUQTo
+                        الجزء الثاني  https://youtu.be/7lxBTLENUWc
+                        الجزء الثالث  https://youtu.be/aLwQmlV0Oio
+                        الجزء الرابع  https://youtu.be/os1e2z4rLcY
+
+                        *الباب الثالث*
+                        مقدمة
+                        https://youtu.be/KWOQ_JuS3zI
+
+                        الجزء الأول
+                        https://youtu.be/StBiisx4u6U
+
+                        الجزء الثاني
+                        https://youtu.be/LFDwqXNFb-s
+
+                        *الباب الرابع :*
+                        مقدمة  https://youtu.be/fkT6ktpEg14
+                        الجزء الأول  https://youtu.be/UPBuLXUZIaI
+                        الجزء الثاني  https://youtu.be/SldFYqx3JqE
+
+                        *الباب الخامس:*
+                        https://youtu.be/F98290HUK_Q",
+                        "المتابعات في ال main "
                     ],
                     "vid":[
                         # 'BAACAgQAAxkBAAID02FdcfPoDcKEhmNn2KoXDS1M4OQpAAKJCQAC8HPhUogH80NBtryEIQQ',
@@ -110,7 +147,8 @@ course = {
                     "doc":[
                         'BQACAgQAAxkBAAIC4WFZ_ZWw5b7qldztRGBPkIRgLWorAAI9CwACTik4Uj8O39CLrs3kIQQ',
                         'BQACAgQAAxkBAAIC4mFZ_ZWnf8Xq-KgpXODUmBjXq0haAAI-CwACTik4UtMXJk94hcVUIQQ',
-                        'BQACAgQAAxkBAAIC42FZ_ZXPc92RF2uQh5SNtBBvQb_wAAI_CwACTik4Ujomq8u_GMuRIQQ'
+                        'BQACAgQAAxkBAAIC42FZ_ZXPc92RF2uQh5SNtBBvQb_wAAI_CwACTik4Ujomq8u_GMuRIQQ',
+                        "BQACAgQAAxkBAAIdfmHlwC8XmPZt1QYM7sdhFUbp734SAAINDAACWZkpU9nPWBlnrs3hIwQ"
                     ],
                     "photo":[
                     ],
@@ -205,6 +243,8 @@ course = {
                     "vid":[
                     ],
                     "doc":[
+                        "BQACAgQAAxkBAAIdcmHlv8PcD1BzO7KRPyKNcyEwCd5zAAJACgACEhshU3boZJjHAhG1IwQ",
+                        "BQACAgQAAxkBAAIdc2Hlv8ONapvlBGmILAoi9O6b-QIqAAJBCgACEhshU1hq4zygT1bNIwQ"
                     ],
                     "photo":[
                     ],
@@ -381,7 +421,8 @@ course = {
                 "lectures":
                 {
                     "message":[
-                        "https://www.w3schools.com/cpp/default.asp"
+                        "https://www.w3schools.com/cpp/default.asp",
+                        "BQACAgIAAxkBAAIc0WHluxliDjgV4Q8Loa-ZCyWlyJ_bAAILDwACQUxRS5ZV9Or8YqscIwQ"
                     ],
                     "vid":[
                     ],
@@ -428,7 +469,13 @@ course = {
                         "BAACAgQAAxkBAAIcmWHluCJ-gEcOC77nFcQoFunKqD09AAJsCwACXFMBUiBJHbXChXKhIwQ",
                         "BAACAgQAAxkBAAIcmmHluCISymu60stzMBKJk4pO3iz4AAJuCwACXFMBUkoe_qyKJsDrIwQ",
                         "BAACAgQAAxkBAAIcm2HluCI92Df83uRhyZWnxAGMbwVNAAJvCwACXFMBUuFQOas1uuzzIwQ",
-                        "BAACAgQAAxkBAAIcnGHluCKLcLyeT-blAY-L2KncdUUnAAJwCwACXFMBUl9jEmY7xRhIIwQ"
+                        "BAACAgQAAxkBAAIcnGHluCKLcLyeT-blAY-L2KncdUUnAAJwCwACXFMBUl9jEmY7xRhIIwQ",
+                        "BAACAgQAAxkBAAIdOmHlvmpYnu7CoSy1BAOjgY4Fer28AAKGCQACTxiIUjOqOelIvqJxIwQ",
+                        "BAACAgQAAxkBAAIdO2HlvmqBleFdkI9u3TRyAY9yExaSAAKCCQACTxiIUmwCfs3SKT7zIwQ",
+                        "BAACAgQAAxkBAAIdPGHlvmqRU6uHBG4hBpeDhpu2BErDAAKKCQACTxiIUpX1RwI7HgKLIwQ",
+                        "BAACAgQAAxkBAAIdPWHlvmriYsPB51xngvji6ydgHCyCAAKDCQACTxiIUmOr6ZMxpv0OIwQ",
+                        "BAACAgQAAxkBAAIdPmHlvmpq_iZBCM4R_EUmrocPIGplAAJTCgACZrGpUuCvuMiMpLklIwQ",
+                        "BAACAgQAAxkBAAIdP2Hlvmo16gkD0E4Nd3Ns96G3QuBIAAJUCgACZrGpUhe5Jx_iNbSWIwQ"
 
                     ],
                     "doc":[
@@ -464,7 +511,8 @@ course = {
                     "vid":[
                     ],
                     "doc":[
-                        'BQACAgQAAxkBAAIDH2FaCBIb-pwBqAjXCIxHwT1CezuHAALaDwACe9vxUeNXpdUUkIS1IQQ'
+                        'BQACAgQAAxkBAAIDH2FaCBIb-pwBqAjXCIxHwT1CezuHAALaDwACe9vxUeNXpdUUkIS1IQQ',
+                        "BQACAgQAAxkBAAIdMWHlvgHCkgWWpGkrBpjO_mrncFM0AAKtCQAC5dhIUrWO4XnVnXVnIwQ"
                     ],
                     "photo":[
                     ],
@@ -548,6 +596,7 @@ course = {
                     "vid":[
                     ],
                     "doc":[
+                        "BQACAgQAAxkBAAIdaWHlv326AogauYKs0pMYGauf9EX4AAJGCgACkXH5Uidt-mHQqEmxIwQ"
                     ],
                     "photo":[
                     ],
@@ -561,7 +610,9 @@ course = {
                     "vid":[
                     ],
                     "doc":[
-                        'BQACAgQAAxkBAAIDM2FaCnoMqoiGZcWyT2xsoYT_cZ5yAALSDAACTilAUtolkj0MscPFIQQ'
+                        'BQACAgQAAxkBAAIDM2FaCnoMqoiGZcWyT2xsoYT_cZ5yAALSDAACTilAUtolkj0MscPFIQQ',
+                        "BQACAgQAAxkBAAIdXWHlvzw1BdNNmFB62BKkXCVv-RcaAAI7CwACwBzIUttOSCxTMjo1IwQ",
+                        "BQACAgQAAxkBAAIdXmHlvzwByPhOOAqiG-_cuEi5xQxGAAIGCwAClMvRUjNvjPwxRxqzIwQ"
                     ],
                     "photo":[
                     ],
