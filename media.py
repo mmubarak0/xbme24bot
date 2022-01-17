@@ -49,39 +49,39 @@ course = {
                         'https://youtube.com/playlist?list=PLEYqyyrm-hQ3wtF34smyJSAOqUJqnf1ch',
                         'https://youtu.be/JL7p_bI5u7E',
                         'https://youtu.be/8XClJiqeIJY',
-                        "*فيديوهات ميكانيكا المواد*
+                        "*Mechanic of material videos*
 
-                        *الباب الأول :*
-                        مقدمة  https://youtu.be/B0Z799AIgP0
-                        الجزء الأول  https://youtu.be/cf0QFwZsgTo
-                        الجزء الثاني
+                        *First unit :*
+                        introduction  https://youtu.be/B0Z799AIgP0
+                        first part  https://youtu.be/cf0QFwZsgTo
+                        second part
                         https://youtu.be/y8yDkHYS-9E
 
-                        *الباب الثاني :*
-                        مقدمة  https://youtu.be/gP3Jm8BaL4U
-                        الجزء الأول  https://youtu.be/hcrr2dmUQTo
-                        الجزء الثاني  https://youtu.be/7lxBTLENUWc
-                        الجزء الثالث  https://youtu.be/aLwQmlV0Oio
-                        الجزء الرابع  https://youtu.be/os1e2z4rLcY
+                        *Second unit :*
+                        introduction  https://youtu.be/gP3Jm8BaL4U
+                        first part  https://youtu.be/hcrr2dmUQTo
+                        second part  https://youtu.be/7lxBTLENUWc
+                        third part  https://youtu.be/aLwQmlV0Oio
+                        fourth part  https://youtu.be/os1e2z4rLcY
 
-                        *الباب الثالث*
-                        مقدمة
+                        *Third unit*
+                        introduction
                         https://youtu.be/KWOQ_JuS3zI
 
-                        الجزء الأول
+                        first part
                         https://youtu.be/StBiisx4u6U
 
-                        الجزء الثاني
+                        second part
                         https://youtu.be/LFDwqXNFb-s
 
-                        *الباب الرابع :*
-                        مقدمة  https://youtu.be/fkT6ktpEg14
-                        الجزء الأول  https://youtu.be/UPBuLXUZIaI
-                        الجزء الثاني  https://youtu.be/SldFYqx3JqE
+                        *Fourth unit :*
+                        introduction  https://youtu.be/fkT6ktpEg14
+                        first part  https://youtu.be/UPBuLXUZIaI
+                        second part  https://youtu.be/SldFYqx3JqE
 
-                        *الباب الخامس:*
+                        *Fifth unit :*
                         https://youtu.be/F98290HUK_Q",
-                        "المتابعات في ال main "
+                        "you can find tutorial pdfs on main-sheets"
                     ],
                     "vid":[
                         # 'BAACAgQAAxkBAAID02FdcfPoDcKEhmNn2KoXDS1M4OQpAAKJCQAC8HPhUogH80NBtryEIQQ',
