@@ -49,7 +49,7 @@ course = {
                         'https://youtube.com/playlist?list=PLEYqyyrm-hQ3wtF34smyJSAOqUJqnf1ch',
                         'https://youtu.be/JL7p_bI5u7E',
                         'https://youtu.be/8XClJiqeIJY',
-                        "*Mechanic of material videos*
+                        """*Mechanic of material videos*
 
                         *First unit :*
                         introduction  https://youtu.be/B0Z799AIgP0
@@ -80,7 +80,7 @@ course = {
                         second part  https://youtu.be/SldFYqx3JqE
 
                         *Fifth unit :*
-                        https://youtu.be/F98290HUK_Q",
+                        https://youtu.be/F98290HUK_Q""",
                         "you can find tutorial pdfs on main-sheets"
                     ],
                     "vid":[
