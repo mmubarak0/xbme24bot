@@ -408,8 +408,7 @@ course = {
                     ],
                     "doc":[
                         "BQACAgUAAxkBAAIDGmFaBtJtoXan4yRK_3z2EdtP-i0hAALhAgAC9-ZRVvEjZRYt5GVEIQQ",
-                        "BQACAgQAAxkBAAIgbGIds1xKls_8zRGll9ljIL_w8mB2AAJ8CwACDxboUNPKBdVxbM_CIwQ",
-                        "BQACAgQAAxkBAAIgbWIds1xA96iM0X0dkVwxeGuyXgHqAAJ9CwACDxboUCNY1K7cLHE9IwQ"
+                        "BQACAgQAAxkBAAIgbGIds1xKls_8zRGll9ljIL_w8mB2AAJ8CwACDxboUNPKBdVxbM_CIwQ"
                     ],
                     "photo":[
                         "AgACAgQAAxkBAAIgeGIds7KRnOuU0AnGyqI0fGDyIevnAAL7tzEbDxboUA5Jba0R5e95AQADAgADcwADIwQ",
