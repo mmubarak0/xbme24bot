@@ -27,6 +27,7 @@ content_types = ["message",
                  "video",
                  ]
 
+subset = ["mecha", "anatomy", "elec", "bme", "chem", "code", "integral", "comp"]
 
 ADMIN = "coruten"
 
@@ -359,6 +360,12 @@ def button(update: Update, context: CallbackContext) -> None:
         course = "anatomy"
         cout(update, context, course, sub, course)
 
+    elif query.data == 'anatomy5':
+        # echo(update, context)
+        sub = "exam"
+        course = "anatomy"
+        cout(update, context, course, sub, course)
+
 
 
     """ Circuit theory stuff """
@@ -407,6 +414,12 @@ def button(update: Update, context: CallbackContext) -> None:
         course = "bme"
         cout(update, context, course, sub, course)
 
+    elif query.data == 'bme5':
+        # echo(update, context)
+        sub = "summary"
+        course = "bme"
+        cout(update, context, course, sub, course)
+
 
 
     """ Organic chemistry stuff """
@@ -449,6 +462,12 @@ def button(update: Update, context: CallbackContext) -> None:
         course = "code"
         cout(update, context, course, sub, course)
 
+    elif query.data == 'code3':
+        # echo(update, context)
+        sub = "exam"
+        course = "code"
+        cout(update, context, course, sub, course)
+
 
 
     """ Special integral stuff """
@@ -461,6 +480,12 @@ def button(update: Update, context: CallbackContext) -> None:
     if query.data == 'integral2':
         # echo(update, context)
         sub = "master_sheet"
+        course = "integral"
+        cout(update, context, course, sub, course)
+
+    if query.data == 'integral3':
+        # echo(update, context)
+        sub = "taras"
         course = "integral"
         cout(update, context, course, sub, course)
 
@@ -547,9 +572,54 @@ def button(update: Update, context: CallbackContext) -> None:
     """ Apps stuff """
     if query.data == 'app1':
         echo(update, context)
-        sub = "anatomy"
+        sub = subset[0]
         course = "app"
         cout(update, context, course, sub, course)
+
+    elif query.data == 'app2':
+        echo(update, context)
+        sub = subset[1]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+    elif query.data == 'app1':
+        echo(update, context)
+        sub = subset[2]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+    elif query.data == 'app1':
+        echo(update, context)
+        sub = subset[3]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+    elif query.data == 'app1':
+        echo(update, context)
+        sub = subset[4]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+    elif query.data == 'app1':
+        echo(update, context)
+        sub = subset[5]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+    elif query.data == 'app1':
+        echo(update, context)
+        sub = subset[6]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+    elif query.data == 'app1':
+        echo(update, context)
+        sub = subset[7]
+        course = "app"
+        cout(update, context, course, sub, course)
+
+
+
 
 # --------------------------------------------------------------------------------------------END of Answer section
     answers = ["amecha1", "amecha2", "amecha3", "amecha4", "amecha5",

@@ -58,6 +58,7 @@ keyboard = {
                     "YouTube tutor", callback_data='anatomy3'),
                 InlineKeyboardButton("Lab", callback_data='anatomy4'),
             ],
+            [InlineKeyboardButton("Exam ", callback_data='anatomy5')],
             [InlineKeyboardButton("Back to menu", callback_data='back')],
         ],
 
@@ -85,6 +86,7 @@ keyboard = {
             [
                 InlineKeyboardButton("Youtube tutor", callback_data='bme4'),
             ],
+            [InlineKeyboardButton("Summary ", callback_data='bme5')],
             [InlineKeyboardButton("Back to menu", callback_data='back')],
         ],
 
@@ -111,6 +113,7 @@ keyboard = {
             [
                 InlineKeyboardButton("Lab", callback_data='code2'),
             ],
+            [InlineKeyboardButton("Exam ", callback_data='code3')],
             [InlineKeyboardButton("Back to menu", callback_data='back')],
         ],
 
@@ -123,6 +126,7 @@ keyboard = {
             [
                 InlineKeyboardButton("Main sheet", callback_data='integral2'),
             ],
+            [InlineKeyboardButton("Work book", callback_data='integral3')],
             [InlineKeyboardButton("Back to menu", callback_data='back')],
         ],
 
@@ -182,7 +186,28 @@ keyboard = {
     # """ Apps stuff """
     "app": [
             [
-                InlineKeyboardButton("Anatomy ", callback_data='app1'),
+                InlineKeyboardButton("Mechanic of material ", callback_data='app1'),
+            ],
+            [
+                InlineKeyboardButton("Anatomy & physiology ", callback_data='app2'),
+            ],
+            [
+                InlineKeyboardButton("electrical engineering ", callback_data='app3'),
+            ],
+            [
+                InlineKeyboardButton("biomedical engineering principle ", callback_data='app4'),
+            ],
+            [
+                InlineKeyboardButton("biorganic chemistry ", callback_data='app5'),
+            ],
+            [
+                InlineKeyboardButton("C++ programming langauage ", callback_data='app6'),
+            ],
+            [
+                InlineKeyboardButton("special integral functions ", callback_data='app7'),
+            ],
+            [
+                InlineKeyboardButton("complex functions ", callback_data='app8'),
             ],
             [InlineKeyboardButton("Back to menu", callback_data='back')],
         ],

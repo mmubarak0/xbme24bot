@@ -185,6 +185,23 @@ course = {
                     "sticker":[
                     ]
                 },
+                "exam":
+                {
+                    "message":[
+                    ],
+                    "vid":[
+                    ],
+                    "doc":[
+                    ],
+                    "photo":[
+                        "AgACAgQAAxkBAAIgymIiX3cqTGPwDWMj8n6nyfeFKE3XAALMuDEbrLcQUfJsXQPHUeFMAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIgy2IiX3f5hmEqCwRFg_DpSbe7CrmIAALNuDEbrLcQUUfW3sEG2WE_AQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIgzGIiX3dAzP3q8RMuJiWmHeArTpSnAALOuDEbrLcQURP-BE1Ec9BeAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIgzWIiX3cDtYf2dA2Y5Dg73UNvLyFqAALPuDEbrLcQUUqikoPKfYI4AQADAgADcwADIwQ"
+                    ],
+                    "sticker":[
+                    ]
+                },
                 "lab":
                 {
                     "message":[
@@ -271,6 +288,29 @@ course = {
                         "BQACAgQAAxkBAAIY6mFxTfBkBGvEvMVhisI9v6kvHdXOAAIGDQACLhuQUyunMGrxzqxRIQQ"
                     ],
                     "photo":[
+                    ],
+                    "sticker":[
+                    ]
+                },
+                "summary":
+                {
+                    "message":[
+                    ],
+                    "vid":[
+                    ],
+                    "doc":[
+                    ],
+                    "photo":[
+                        "AgACAgQAAxkBAAIhBGIiYX0k9eZGJ_tT7LGJf-G3GHkRAALZuDEbrLcQUUDrKSSN-8MLAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhBWIiYX0VbsevlThTQmGawekxUGqoAALauDEbrLcQUfcGZ83ZsZERAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhBmIiYX2vmKBZ3efJGUTrErChyt1AAALbuDEbrLcQUUxIGE-t5oMoAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhB2IiYX3jNGg6KhbTo5X3zKZfdnYZAALcuDEbrLcQUTFrfR7YKgTCAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhCGIiYX28nhK9i4MZwzaRheF4fCYLAALduDEbrLcQUZb1PtIun4fbAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhCWIiYX0OYk-HbkPGMJ_MjSUyF3Y3AALeuDEbrLcQUeKfBeljWfDLAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhCmIiYX0TBjSz57zZzv2b-CqSP61vAALfuDEbrLcQUQABOiG87hqVMgEAAwIAA3MAAyME",
+                        "AgACAgQAAxkBAAIhC2IiYX0fe9ZvXKs-b1HD7p_AYs3WAALguDEbrLcQUdtdxgsDy6pWAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhDGIiYX1a9AS0026O0vcTKFZFruCPAALhuDEbrLcQUcsCa3hLsHzRAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhDWIiYX1aXrYR9iGRoVPhqDP1D2VzAALiuDEbrLcQUT1MQVbbA6FHAQADAgADcwADIwQ"
                     ],
                     "sticker":[
                     ]
@@ -440,6 +480,23 @@ course = {
                     "sticker":[
                     ]
                 },
+                "exam":
+                {
+                    "message":[
+                    ],
+                    "vid":[
+                    ],
+                    "doc":[
+                    ],
+                    "photo":[
+                        "AgACAgQAAxkBAAIhLWIiYtAOGvNK0i7nL6xj2Lf9WTOnAALjuDEbrLcQUXrc3wABQG6BbQEAAwIAA3MAAyME",
+                        "AgACAgQAAxkBAAIhLmIiYtCyKsgorMkNGOXmkIhDS5MqAALkuDEbrLcQUbl5B8uzj0wvAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIhL2IiYtDAtyk4JXsGsAFtAAH9-mPNQAAC5bgxG6y3EFH1jXWXn0ZOrAEAAwIAA3MAAyME",
+                        "AgACAgQAAxkBAAIhMGIiYtDum8jWExvSR0_4vo_WYf6RAALmuDEbrLcQUXp-SM0jX-NMAQADAgADcwADIwQ"
+                    ],
+                    "sticker":[
+                    ]
+                },
                 "lab":
                 {
                     "message":[
@@ -487,6 +544,27 @@ course = {
                     "doc":[
                     ],
                     "photo":[
+                    ],
+                    "sticker":[
+                    ]
+                },
+                "taras":
+                {
+                    "message":[
+                    ],
+                    "vid":[
+                    ],
+                    "doc":[
+                    ],
+                    "photo":[
+                        "AgACAgQAAxkBAAIg4mIiYCyQpKEnAAGlQ3cDmgnGGZCywgAC0bgxG6y3EFG2DTAW0VHj1gEAAwIAA3MAAyME",
+                        "AgACAgQAAxkBAAIg42IiYCx8LHL-4QABgLYYTy0n_BQaQgAC0rgxG6y3EFFGGMz0AAHZFG0BAAMCAANzAAMjBA",
+                        "AgACAgQAAxkBAAIg5GIiYCyA6KXDrKaBLuecAUEUr9MAA9O4MRustxBRGWEfs-nY4HYBAAMCAANzAAMjBA",
+                        "AgACAgQAAxkBAAIg5WIiYCwt0M7JLnm2vkZwAdRkm1nbAALUuDEbrLcQUcJaGhpb9KD6AQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIg5mIiYCzS_N4sSBDtARCBcWsxjbxZAALVuDEbrLcQUaSk1rzVhqu0AQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIg52IiYCxCNd_QnRXGMhdWSD7SVUoLAALWuDEbrLcQUTmgaWSs1R80AQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIg6GIiYCz9vF2DcAs9TqX7iMD82vYUAALXuDEbrLcQUcSAiAsGnqHAAQADAgADcwADIwQ",
+                        "AgACAgQAAxkBAAIg6WIiYCyzEunoDHezxZew5nXsy3JuAALYuDEbrLcQUX98lZD4yk8WAQADAgADcwADIwQ"
                     ],
                     "sticker":[
                     ]
@@ -712,6 +790,19 @@ course = {
 
     #     """ Apps stuff """
     "app": {
+                "mecha":
+                {
+                    "message":[
+                    ],
+                    "vid":[
+                    ],
+                    "doc":[
+                    ],
+                    "photo":[
+                    ],
+                    "sticker":[
+                    ]
+                },
                 "anatomy":
                 {
                     "message":[
@@ -725,7 +816,7 @@ course = {
                     "sticker":[
                     ]
                 },
-                "complex":
+                "comp":
                 {
                     "message":[
                     ],
@@ -752,6 +843,19 @@ course = {
                     ]
                 },
                 "code":
+                {
+                    "message":[
+                    ],
+                    "vid":[
+                    ],
+                    "doc":[
+                    ],
+                    "photo":[
+                    ],
+                    "sticker":[
+                    ]
+                },
+                "integral":
                 {
                     "message":[
                     ],
